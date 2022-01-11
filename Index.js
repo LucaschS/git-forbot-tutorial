@@ -4,5 +4,5 @@ function fn(a, b, c) {
 
 var x = fn(1, 20, 30);
 var y = fn(1, 50, 20);
-var z = fn(2, 3, 4)
+
 console.log(x + y + z);
